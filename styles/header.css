@@ -16,6 +16,13 @@
 
 .container {
           display: flex;
-          align-items: center;
-        }
-
+          align-items: center; }
+        .lista-menu{display:none; position: absolute; top: 100%; width: 40vw;}
+        .container_botao:checked ~ .lista-menu{display:block;}
+      .lista-menu__titulo, .lista-menu__item{padding: 1 em; background-color: rgb(233, 170, 233);}
+      .lista-menu__titulo{color:black;}
+      .lista-menu__link{background-image: linear-gradient(black,rgb(255, 77, 107));}
+      -webkit-backgroud-clip:text;
+      -webkit-text-fill-color: transparent;
+      backgroud-clip: text;
+      text-transform: uppercase; }
