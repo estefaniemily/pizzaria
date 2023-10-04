@@ -5,7 +5,7 @@
 .banner_titulo{ 
     font-size: 40px;
     color: purple;
-text-align: center;
+align-items: center;
        }
 
 .banner_texto{    text-align: center;     }
