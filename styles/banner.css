@@ -1,8 +1,14 @@
-.banner{            }
+.banner{ 
+    background-color: plum;
+           }
 
-.banner_titulo{        }
+.banner_titulo{ 
+    font-size: 3opx;
+    color: purple;
+text-align: center;
+       }
 
-.banner_texto{         }
+.banner_texto{    text-align: center;     }
 
 .banner_pesquisa{         
 background-color:transparent;
