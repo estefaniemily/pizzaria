@@ -2,15 +2,16 @@
     background-color: plum;
            }
 
-.banner_titulo{ 
+.banner__titulo{ 
     font-size: 40px;
     color: purple;
 align-items: center;
        }
 
-.banner_texto{    text-align: center;     }
+.banner__texto{    text-align: center; 
+    }
 
-.banner_pesquisa{         
+.banner__pesquisa{         
 background-color:transparent;
 border:1px solid white;
 border-radius:24px;
