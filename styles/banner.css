@@ -1,6 +1,7 @@
 .banner{ 
     background-color: plum;
     text-align: center;
+    padding: 20px;
            }
 
 .banner__titulo{ 
